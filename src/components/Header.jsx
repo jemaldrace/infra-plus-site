@@ -21,7 +21,7 @@ export default function Header() {
           className="text-2xl font-bold text-brand-navy tracking-tight"
           onClick={closeMenu}
         >
-          <img src="/public/logo.svg" alt="Infra+ logo" className="h-8 w-auto" />
+          <img src="/logo.svg" alt="Infra+ logo" />
         </NavLink>
 
         {/* Desktop Nav */}
